@@ -1,0 +1,91 @@
+// for no title book 
+- In this subject go through the pdf and fetch or generate meaningful topics name from the chapter give them a name don't just write 1.1, 1.2 etc text also the length of the topic must not be too big max 2 - 3 words.
+- This book contains topics and do you know sections so make sure all these are included in the flashcards but also make sure the questions and answers of that cards are meaningful because currently the cards are read only
+- Create 5-6 topics from the chapter text and generate cards for each topic which are meaningful and relevant to the chapter.
+- Also make sure the Chapter order is correct 1, 2, 3, etc.
+-  Not only topic like 1.1 , 1.2 also some heading include that also 
+- Generate the complete SQL block in one single output.
+- Produce all topics in full, with all meaningful and non-repetitive flashcards related to each topic. No truncation, no splitting into multiple parts, no summarizing, no "add the rest" instructions, no placeholders.
+- Output a single, complete, valid SQL block with proper escaping of single quotes. No markdown formatting. No explanations. Just the final SQL.
+- Also: Do not stop in between. Make sure the entire chapter’s topics and cards are present in the single response, even if long.
+- The format must exactly match the INSERT statements shown earlier. Each topic’s block must include all its cards and any sub-topic cards merged.
+-- Ensure each topic has cards. All topics and subsections from the chapter text must be present.
+- Also make sure the Chapter order is correct 1, 2, 3, etc.
+- Also fetch the full name of the chapter.
+
+
+
+for hindi 
+
+📚 **Book Context**:
+This is a Hindi NCERT book. The flashcards you generate must be **written fully in Hindi**, in natural, fluent Hindi — not transliterated or English-mixed.
+
+---
+
+## 📖 Chapter Structuring Instructions
+
+- Treat the overall **chapter name** as the NCERT chapter name (fetch it from the chapter PDF, do not use placeholders).
+- **Do not write topics as "1.1", "1.2", etc.** Instead, **read the chapter** and generate **5 meaningful topic names in Hindi**, each a short phrase (maximum 2–3 words) based on headings, subheadings, or conceptual flow.
+- Every topic should represent a distinct, clear theme from the chapter content.
+- Maintain the correct topic order as they appear in the chapter.
+- Ensure the chapter number is correct — e.g., 1, 2, 3 — **not inferred from filename**.
+
+---
+
+## 🧠 Flashcard Rules
+
+- Generate **meaningful, educational flashcards** in **Hindi language only**.
+- Flashcards should help students **understand, recall, and revise** key ideas.
+- Each topic should have exactly **{flashcards_per_topic}** flashcards.
+- Flashcard types must be:
+  - `basic` (question-answer)
+  - `fill_in_the_blank`
+- Do **not include image references**, quotes, or placeholders.
+- Use a **mix** of factual, conceptual, and explanatory cards. No repetition.
+- Include important sections like **"क्या आप जानते हैं?"**, activities, or learning outcomes, but reword them into helpful flashcards.
+- Avoid vague or filler questions — make every card useful and clear.
+
+---
+
+## 🗂️ Output Format
+
+Produce one **complete**, clean Supabase-compatible SQL block that:
+
+- Uses `DO $$ DECLARE ... BEGIN ... END $$;`
+- Checks for existence using `SELECT INTO`, `IF ... IS NULL THEN INSERT ... RETURNING INTO`
+- Assigns UUIDs using `gen_random_uuid()`
+- Escapes all single quotes in values using `''`
+- Uses tables:
+  - subjects(id, class_name, subject_name, icon, color, description, created_at)
+  - book_title(id, subject_id, title)
+  - chapters(id, book_id, name, order_index)
+  - topics(id, chapter_id, name, order_index)
+  - cards(id, topic_id, front, back, card_type, order_index)
+- Includes error handling using `EXCEPTION WHEN OTHERS THEN`
+
+---
+
+## ❌ DO NOT:
+
+- Do not use English in card content.
+- Do not use markdown, explanations, or formatting.
+- Do not stop mid-way.
+- Do not generate SQL in chunks or parts.
+- Do not summarize or list flashcards outside SQL.
+- Do not repeat the topic names as chapters.
+- Do not skip any topic.
+- Do not use placeholder values like "Topic 1", "Fill here", etc.
+
+---
+
+## ✅ You Must:
+
+- Create 5 high-quality Hindi topics based on actual chapter content.
+- Write all flashcards for those topics — no empty blocks.
+- Produce a single, ready-to-run SQL script, not just fragments.
+- Ensure chapter order and topic order are correct and logical.
+
+---
+
+🔚 Final Output Requirement:
+**Only return a full, working SQL block**. Do not output anything else. No Markdown, no comments, no "here's your SQL", just raw executable SQL text.

@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Generated files
+chapter_evaluations.json
+output/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store

@@ -1,0 +1,8 @@
+requests
+pdfplumber
+python-dotenv 
+google-genai
+google-generativeai
+supabase
+openai
+groq

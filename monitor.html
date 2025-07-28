@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter Evaluation Dashboard</title>
+    <style>
+        :root {
+            --primary-color: #007bff;
+            --secondary-color: #6c757d;
+            --light-gray: #f8f9fa;
+            --border-color: #dee2e6;
+            --text-dark: #212529;
+            --text-light: #495057;
+            --score-1: #dc3545;
+            --score-2: #fd7e14;
+            --score-3: #ffc107;
+            --score-4: #28a745;
+            --score-5: #198754;
+        }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            line-height: 1.6; 
+            color: var(--text-dark);
+            background-color: var(--light-gray);
+            margin: 0;
+            padding: 20px;
+        }
+        h1 { text-align: center; color: var(--text-dark); margin-bottom: 40px; }
+        #container { max-width: 1200px; margin: 0 auto; }
+        
+        .chapter-card { 
+            background: #fff; 
+            border-radius: 8px; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+            margin-bottom: 40px;
+            overflow: hidden;
+        }
+        .chapter-header { 
+            font-size: 1.6em; 
+            font-weight: 600; 
+            color: #fff;
+            background-color: var(--primary-color);
+            padding: 20px;
+        }
+        .chapter-body { padding: 20px; }
+        
+        .metrics-grid { 
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .metric-box { 
+            background: var(--light-gray);
+            border-radius: 6px;
+            padding: 15px;
+        }
+        .metric-box h3 { 
+            font-size: 1.1em; 
+            color: var(--secondary-color);
+            margin-top: 0; 
+            margin-bottom: 15px; 
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+        }
+        .score-item { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+        .score-item .label { font-weight: 500; }
+        .score-item .score { font-size: 1.2em; font-weight: bold; }
+        .score-item .notes { font-size: 0.9em; color: var(--text-light); text-align: right; }
+
+        .score-1 { color: var(--score-1); }
+        .score-2 { color: var(--score-2); }
+        .score-3 { color: var(--score-3); }
+        .score-4 { color: var(--score-4); }
+        .score-5 { color: var(--score-5); }
+
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid var(--border-color); padding: 12px; text-align: left; vertical-align: top; }
+        th { background-color: var(--light-gray); font-weight: 600; }
+        tr:nth-child(even) { background-color: var(--light-gray); }
+        .card-content { font-size: 0.95em; }
+        .card-content strong { font-weight: 600; color: var(--primary-color); }
+        .card-eval-notes { font-size: 0.9em; color: var(--text-light); margin-top: 5px; }
+    </style>
+</head>
+<body>
+
+    <div id="container">
+        <h1>Chapter Evaluation Dashboard</h1>
+        <div id="evaluations-container"></div>
+    </div>
+
+    <script>
+        async function loadEvaluations() {
+            try {
+                const response = await fetch('./chapter_evaluations.json');
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                const evaluations = await response.json();
+                const container = document.getElementById('evaluations-container');
+                container.innerHTML = '';
+
+                evaluations.forEach(eval => {
+                    const chapterDiv = document.createElement('div');
+                    chapterDiv.className = 'chapter-card';
+
+                    chapterDiv.innerHTML = `
+                        <div class="chapter-header">${eval.chapter_name}</div>
+                        <div class="chapter-body">
+                            <div class="metrics-grid">
+                                <div class="metric-box">
+                                    <h3>Chapter-Wide Exhaustiveness</h3>
+                                    <div class="score-item">
+                                        <span class="label">Overall Score</span>
+                                        <span class="score score-${eval.exhaustiveness.score}">${eval.exhaustiveness.score}</span>
+                                    </div>
+                                    <div class="notes">${eval.exhaustiveness.notes}</div>
+                                </div>
+                                <div class="metric-box">
+                                    <h3>Optimal Cards Per Topic</h3>
+                                    ${eval.optimal_card_count_per_topic.map(topicEval => `
+                                        <div class="score-item">
+                                            <span class="label">${topicEval.topic_name}</span>
+                                            <span class="score score-${topicEval.evaluation.score}">${topicEval.evaluation.score}</span>
+                                        </div>
+                                        <div class="notes" style="text-align:left; margin-bottom:10px; padding-left: 5px;">${topicEval.evaluation.notes}</div>
+                                    `).join('')}
+                                </div>
+                            </div>
+                            <h3>Card-Level Review</h3>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Card Content</th>
+                                        <th style="text-align:center;">Correctness</th>
+                                        <th style="text-align:center;">Relevance & Completeness</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    ${eval.card_evaluations.map(cardEval => `
+                                        <tr>
+                                            <td>
+                                                <div class="card-content">
+                                                    <strong>Q:</strong> ${cardEval.content.front}<br>
+                                                    <strong>A:</strong> ${cardEval.content.back}
+                                                </div>
+                                            </td>
+                                            <td style="text-align:center;">
+                                                <div class="score score-${cardEval.correctness.score}">${cardEval.correctness.score}</div>
+                                                <div class="card-eval-notes">${cardEval.correctness.notes}</div>
+                                            </td>
+                                            <td style="text-align:center;">
+                                                <div class="score score-${cardEval.relevance.score}">${cardEval.relevance.score}</div>
+                                                <div class="card-eval-notes">${cardEval.relevance.notes}</div>
+                                            </td>
+                                        </tr>
+                                    `).join('')}
+                                </tbody>
+                            </table>
+                        </div>
+                    `;
+                    container.appendChild(chapterDiv);
+                });
+            } catch (error) {
+                console.error("Error loading evaluations:", error);
+                document.getElementById('evaluations-container').innerHTML = 
+                    `<div style="text-align:center; color:red; font-size:1.2em;">Could not load chapter_evaluations.json. Please run the evaluation script and ensure the local server is running correctly.</div>`;
+            }
+        }
+
+        loadEvaluations();
+    </script>
+
+</body>
+</html>
