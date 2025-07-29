@@ -1,0 +1,152 @@
+[
+    {
+        "card_id": "08def3ef-b7d6-4193-b8a1-301cae8ce5df",
+        "topic_name": "Diversity in the Living World",
+        "question": "What is biodiversity?",
+        "answer": "The number and types of organisms present on Earth.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The answer directly matches the text's definition of biodiversity as 'the number and types of organisms present on earth' in section 1.1.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "dee0a2f1-02a1-465d-a447-b0ff61049c12",
+        "topic_name": "Diversity in the Living World",
+        "question": "What is the approximate range of known and described species?",
+        "answer": "1.7-1.8 million.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text explicitly states the range of known and described species as 'between 1.7-1.8 million' in section 1.1.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "07bd2764-2439-4607-a0a7-51f60dcb7b0e",
+        "topic_name": "Diversity in the Living World",
+        "question": "Why is standardization of organism names necessary?",
+        "answer": "To avoid confusion caused by varying local names.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text explains that local names vary and cause confusion, necessitating standardization, directly matching the answer.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "5caec499-404e-401e-91b0-cf36a607cc6b",
+        "topic_name": "Diversity in the Living World",
+        "question": "What is nomenclature?",
+        "answer": "The process of standardizing the naming of living organisms.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text defines nomenclature as the process to 'standardise the naming of living organisms,' exactly as stated in the answer.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "d0b5ef0f-cc4d-4c30-9cb7-4322bf32aaad",
+        "topic_name": "Diversity in the Living World",
+        "question": "What does ICBN stand for?",
+        "answer": "International Code for Botanical Nomenclature.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text provides the full form 'International Code for Botanical Nomenclature (ICBN)' verbatim.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "d7ea8509-7089-46c9-aa0e-62b39cf5d360",
+        "topic_name": "Diversity in the Living World",
+        "question": "What does ICZN stand for?",
+        "answer": "International Code of Zoological Nomenclature.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text provides the full form 'International Code of Zoological Nomenclature (ICZN)' verbatim.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "9af7fc8d-e562-4862-be85-fb7f75ffe424",
+        "topic_name": "Diversity in the Living World",
+        "question": "What is binomial nomenclature?",
+        "answer": "A system of providing a name with two components: Generic name and specific epithet.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text describes binomial nomenclature as 'system of providing a name with two components' – the Generic name and specific epithet.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "a4d63a07-1c8d-40ee-a0d9-9f2893c76dde",
+        "topic_name": "Diversity in the Living World",
+        "question": "Who gave the binomial nomenclature system?",
+        "answer": "Carolus Linnaeus.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text states 'This naming system given by Carolus Linnaeus,' directly identifying him as the source.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "1e341700-4d73-4c23-810c-3338f465f229",
+        "topic_name": "Diversity in the Living World",
+        "question": "What is the scientific name of mango?",
+        "answer": "Mangifera indica.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text gives 'Mangifera indica' as the scientific name of mango as an example.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "953c3e1e-960f-40e0-94c3-1a76ff6db1f5",
+        "topic_name": "Diversity in the Living World",
+        "question": "In 'Mangifera indica', what does 'Mangifera' represent?",
+        "answer": "The genus.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text explains that 'Mangifera represents the genus' in the name Mangifera indica.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "6c122b87-2be9-42a5-8dc5-13b437453d1b",
+        "topic_name": "Diversity in the Living World",
+        "question": "In 'Mangifera indica', what does 'indica' represent?",
+        "answer": "The specific epithet.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text states that 'indica, is a particular species, or a specific epithet' in the name Mangifera indica.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "b1e6f17a-1663-488e-b086-fe8cd45a2020",
+        "topic_name": "Diversity in the Living World",
+        "question": "What language are biological names generally in?",
+        "answer": "Latin.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text's rule 1 states 'Biological names are generally in Latin,' matching the answer directly.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "ed29f76d-e699-4729-a681-82090413e36e",
+        "topic_name": "Diversity in the Living World",
+        "question": "How are biological names written?",
+        "answer": "In italics.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text's rule 1 states biological names are 'written in italics,' directly verifiable.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "12fb8932-de44-40e8-ac6c-dd57974a4cc5",
+        "topic_name": "Diversity in the Living World",
+        "question": "What is classification?",
+        "answer": "Grouping organisms into categories based on observable characters.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text defines classification as 'the process by which anything is grouped into convenient categories based on some easily observable characters,' applied to organisms.",
+        "is_repeated": false
+    },
+    {
+        "card_id": "073aace2-dfdb-46b6-90ab-89ae1ef28e69",
+        "topic_name": "Diversity in the Living World",
+        "question": "What is taxonomy?",
+        "answer": "The process of classification.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "rationale": "The text states 'This process of classification is taxonomy,' directly matching the answer.",
+        "is_repeated": false
+    }
+]

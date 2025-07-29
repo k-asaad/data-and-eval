@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accuracy Evaluation Report</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            background-color: #f0f2f5;
+            color: #1c1e21;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #333;
+        }
+        .topic-section {
+            margin-bottom: 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            padding: 20px;
+        }
+        .topic-title {
+            font-size: 1.8em;
+            color: #4a90e2;
+            margin-top: 0;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #4a90e2;
+            color: #fff;
+            cursor: pointer;
+        }
+        tr:nth-child(even) { background-color: #f8f9fa; }
+        .score-1 { background-color: #ffcccc; }
+        .score-2 { background-color: #fff2b3; } /* Light Yellow */
+        .score-3 { background-color: #b3e6b3; } /* Light Green */
+        .score-4 { background-color: #b3d9ff; } /* Light Blue */
+        .repeated-card {
+            background-color: #ffe0b2; /* Light orange for repeated cards */
+            border: 2px solid #ff9800;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Accuracy Evaluation Report</h1>
+        <div id="report-content"></div>
+    </div>
+
+    <script>
+        async function loadReport() {
+            try {
+                const response = await fetch('./accuracy_evaluations.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                const reportContent = document.getElementById('report-content');
+                reportContent.innerHTML = ''; // Clear existing data
+
+                // Group cards by topic
+                const cardsByTopic = data.reduce((acc, card) => {
+                    const topicName = card.topic_name || 'Uncategorized';
+                    if (!acc[topicName]) {
+                        acc[topicName] = [];
+                    }
+                    acc[topicName].push(card);
+                    return acc;
+                }, {});
+
+                for (const topicName in cardsByTopic) {
+                    const topicSection = document.createElement('div');
+                    topicSection.className = 'topic-section';
+                    topicSection.innerHTML = `<h2 class="topic-title">Topic: ${topicName}</h2>`;
+
+                    const table = document.createElement('table');
+                    table.id = `table-${topicName.replace(/[^a-zA-Z0-9]/g, '')}`; // Unique ID for sorting
+                    table.innerHTML = `
+                        <thead>
+                            <tr>
+                                <th onclick="sortTable('${table.id}', 0)">Question</th>
+                                <th onclick="sortTable('${table.id}', 1)">Answer</th>
+                                <th onclick="sortTable('${table.id}', 2)">Accuracy Score</th>
+                                <th onclick="sortTable('${table.id}', 3)">Confidence Score</th>
+                                <th onclick="sortTable('${table.id}', 4)">Rationale</th>
+                                <th onclick="sortTable('${table.id}', 5)">Repeated</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    `;
+                    const tableBody = table.querySelector('tbody');
+
+                    cardsByTopic[topicName].forEach(item => {
+                        const row = document.createElement('tr');
+                        let rowClass = `score-${item.accuracy_score}`;
+                        if (item.is_repeated) {
+                            rowClass += ' repeated-card';
+                        }
+                        row.className = rowClass;
+                        row.innerHTML = `
+                            <td>${item.question}</td>
+                            <td>${item.answer}</td>
+                            <td>${item.accuracy_score}</td>
+                            <td>${item.confidence_score}</td>
+                            <td>${item.rationale || 'N/A'}</td>
+                            <td>${item.is_repeated ? 'Yes' : 'No'}</td>
+                        `;
+                        tableBody.appendChild(row);
+                    });
+                    topicSection.appendChild(table);
+                    reportContent.appendChild(topicSection);
+                }
+
+            } catch (error) {
+                console.error('Error loading or parsing evaluation data:', error);
+                const reportContent = document.getElementById('report-content');
+                reportContent.innerHTML = `<p style="text-align:center; color:red;">Could not load evaluation data. Please ensure 'accuracy_evaluations.json' exists and is a valid JSON file.</p>`;
+            }
+        }
+
+        function sortTable(tableId, n) {
+            var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+            table = document.getElementById(tableId);
+            switching = true;
+            dir = "asc"; 
+            while (switching) {
+                switching = false;
+                rows = table.rows;
+                for (i = 1; i < (rows.length - 1); i++) {
+                    shouldSwitch = false;
+                    x = rows[i].getElementsByTagName("TD")[n];
+                    y = rows[i + 1].getElementsByTagName("TD")[n];
+                    var xContent = isNaN(parseFloat(x.innerHTML)) ? x.innerHTML.toLowerCase() : parseFloat(x.innerHTML);
+                    var yContent = isNaN(parseFloat(y.innerHTML)) ? y.innerHTML.toLowerCase() : parseFloat(y.innerHTML);
+                    if (dir == "asc") {
+                        if (xContent > yContent) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    }
+                    else if (dir == "desc") {
+                        if (xContent < yContent) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    }
+                }
+                if (shouldSwitch) {
+                    rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                    switching = true;
+                    switchcount++;
+                }
+                else {
+                    if (switchcount == 0 && dir == "asc") {
+                        dir = "desc";
+                        switching = true;
+                    }
+                }
+            }
+        }
+
+        window.onload = loadReport;
+    </script>
+</body>
+</html>

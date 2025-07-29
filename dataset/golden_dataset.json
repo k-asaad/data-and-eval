@@ -1,0 +1,107 @@
+[
+    {
+        "question": "What are the two main classifications of The Arts?",
+        "answers": [
+            {
+                "answer_text": "The two main classifications are Visual Arts and Performing Arts.",
+                "accuracy_score": 4,
+                "rationale": "Fully NCERT. This is stated explicitly in the 'A brief introduction to Arts Education' section."
+            },
+            {
+                "answer_text": "The two main classifications are painting and dancing.",
+                "accuracy_score": 1,
+                "rationale": "Incorrect. Painting and dancing are examples of the two classifications, not the classifications themselves."
+            },
+            {
+                "answer_text": "The two main classifications are Visual Arts and Digital Arts.",
+                "accuracy_score": 1,
+                "rationale": "Incorrect. Digital Art is a sub-category of Visual Arts, not a main classification."
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the Bridge Programme?",
+        "answers": [
+            {
+                "answer_text": "To help Grade 8 students develop an understanding of fundamental artistic concepts and practices they may have missed.",
+                "accuracy_score": 4,
+                "rationale": "Fully NCERT. This is stated in the 'Context' section."
+            },
+            {
+                "answer_text": "To replace the existing Arts Education curriculum.",
+                "accuracy_score": 1,
+                "rationale": "Incorrect. The programme is designed to be a bridge to the new curriculum, not a replacement."
+            },
+            {
+                "answer_text": "To provide a fun and interactive way for students to learn about art, and it was designed by a committee of famous artists.",
+                "accuracy_score": 3,
+                "rationale": "Partially NCERT. The first part of the answer is correct, but the information about the designers is not mentioned in the text."
+            }
+        ]
+    },
+    {
+        "question": "What are the Curricular Goals (CGs) of Arts Education?",
+        "answers": [
+            {
+                "answer_text": "CG-1: Develops openness to explore and express themselves through various art forms. CG-2: Applies their imagination and creativity to explore alternative ideas through the arts. CG-3: Understands and applies artistic elements, processes and techniques. CG-4: Acquaints themselves with a range of aesthetic sensibilities in regional Arts and cultural practices.",
+                "accuracy_score": 4,
+                "rationale": "Fully NCERT. This is a direct quote from the 'Curricular Goals (CGs)' section."
+            },
+            {
+                "answer_text": "To ensure all students get good grades in art.",
+                "accuracy_score": 1,
+                "rationale": "Incorrect. The goals are about personal and creative development, not just grades."
+            },
+            {
+                "answer_text": "To make students appreciate art, which is a proven method to increase a nation's GDP.",
+                "accuracy_score": 2,
+                "rationale": "Correct, but External. While art can contribute to a nation's economy, this is not mentioned as a curricular goal in the text."
+            }
+        ]
+    },
+    {
+        "question": "What are some of the activities in the 'Visual Arts' section of the Activity-wise Timetable?",
+        "answers": [
+            {
+                "answer_text": "VA1: Figure drawing using geometrical shapes, VA2: Proportions of the human figure, VA3: Create an outdoor scene around the figure, VA4: Complete the artwork, VA5: Make a three-dimensional figure, VA6: Class Display.",
+                "accuracy_score": 4,
+                "rationale": "Fully NCERT. This is a direct list of the activities from the timetable."
+            },
+            {
+                "answer_text": "The main activity is to visit a museum and write a report.",
+                "accuracy_score": 1,
+                "rationale": "Incorrect. While visiting a museum is a good activity, it is not listed as one of the main activities in the timetable."
+            }
+        ]
+    },
+    {
+        "question": "What is the 'Mirror Game' in the Theatre section?",
+        "answers": [
+            {
+                "answer_text": "A game where two students stand facing each other, one acting as a mirror and imitating the other's actions.",
+                "accuracy_score": 4,
+                "rationale": "Fully NCERT. This is a direct description of the game from the 'Theatre' section."
+            },
+            {
+                "answer_text": "A game where students look into a mirror and make funny faces.",
+                "accuracy_score": 1,
+                "rationale": "Incorrect. The game is about imitating another person, not just making faces in a mirror."
+            }
+        ]
+    },
+    {
+        "question": "What is 'Navarasa' in the context of Theatre?",
+        "answers": [
+            {
+                "answer_text": "The nine emotional states that are explored in Indian theatre.",
+                "accuracy_score": 4,
+                "rationale": "Fully NCERT. The text explicitly mentions the nine emotional states (navarasa)."
+            },
+            {
+                "answer_text": "A type of Indian classical dance.",
+                "accuracy_score": 1,
+                "rationale": "Incorrect. Navarasa is a concept in theatre and dance, but it is not a dance form itself."
+            }
+        ]
+    }
+]

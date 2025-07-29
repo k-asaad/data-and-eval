@@ -64,50 +64,61 @@ This project is a data pipeline for generating educational flashcards from NCERT
     XAI_API_KEY="your_xai_api_key"
     ```
 
-## Usage
+## Running the Application
 
-### SQL Generation
+### Backend
 
-To generate the SQL files from the PDF textbooks, run the following command:
+To run the backend services, you will need to have Python and pip installed. You will also need to have a Supabase account and a Grok account.
 
-```bash
-python src/generation/main.py
-```
+1.  **Clone the repository:**
 
-The script will prompt you to enter the class, subject, and book title. The generated SQL files will be saved in the `output/` directory.
+    ```bash
+    git clone https://github.com/<your-username>/data-and-eval.git
+    cd data-and-eval
+    ```
 
-### AI Evaluation
+2.  **Create and activate a virtual environment:**
 
-To evaluate the generated flashcards using either Gemini or Grok, run one of the following commands:
+    ```bash
+    python -m venv venv
+    .\venv\Scripts\activate
+    ```
 
-**Using Gemini:**
+3.  **Install the required dependencies:**
 
-```bash
-python src/evaluation/run_evaluation.py
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-**Using Grok:**
+4.  **Set up your environment variables:**
 
-```bash
-python src/evaluation/grok_eval.py
-```
+    Create a file named `.env` in the root of the project and add the following environment variables:
 
-The evaluation results will be saved in the `chapter_evaluations.json` file.
+    ```
+    SUPABASE_URL="your_supabase_url"
+    SUPABASE_KEY="your_supabase_key"
+    GEMINI_API_KEY="your_gemini_api_key"
+    XAI_API_KEY="your_xai_api_key"
+    ```
 
-### Supabase Integration
+5.  **Generate SQL files:**
 
-To execute the generated SQL files in your Supabase database, run the following command:
+    ```bash
+    python src/generation/main.py
+    ```
 
-```bash
-python scripts/supabase-run.py
-```
+6.  **Run the evaluation:**
 
-**Note:** You will need to create a function in your Supabase SQL editor for this script to work:
+    ```bash
+    python src/evaluation/evaluate_accuracy.py
+    ```
 
-```sql
-CREATE OR REPLACE FUNCTION execute_sql(sql TEXT) RETURNS void AS $$
-BEGIN
-  EXECUTE sql;
-END;
-$$ LANGUAGE plpgsql;
-```
+7.  **Run the Supabase script:**
+
+    ```bash
+    python scripts/supabase-run.py
+    ```
+
+### Viewing the Evaluation Report
+
+After running the accuracy evaluation, you can view the results by opening the `evaluation_report.html` file in your web browser. This file will automatically load and display the data from `accuracy_evaluations.json`.

@@ -1,0 +1,2432 @@
+[
+    {
+        "card_id": "c54fc97a-abb5-495d-b6c5-ca526146022a",
+        "topic_name": "Introduction",
+        "question": "What policy introduced Arts Education as compulsory?",
+        "answer": "The National Education Policy (NEP-2020).",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "0a4d76c5-49cc-4a73-b22a-1775efd93407",
+        "topic_name": "Introduction",
+        "question": "From which grade is Arts Education compulsory?",
+        "answer": "Grade 3.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b3334420-2856-42f0-8e93-f24d24a9aadb",
+        "topic_name": "Introduction",
+        "question": "Until which grade is Arts Education compulsory?",
+        "answer": "Grade 12.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "a742b4c1-579d-4c52-9697-6ce71ae8873b",
+        "topic_name": "Introduction",
+        "question": "How is Arts Education integrated at the foundation stage?",
+        "answer": "With other curricular areas.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "6ee703da-3430-4183-b642-508af7f531f9",
+        "topic_name": "Introduction",
+        "question": "Who is developing syllabi and textbooks for Arts Education?",
+        "answer": "NCERT.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "6750efee-080f-4d24-9d13-c474e7638c30",
+        "topic_name": "Introduction",
+        "question": "For which grades did NCERT develop textbooks in 2024?",
+        "answer": "Grades 3 and 6.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b3461420-05dd-40a3-8ab9-55ccb58ad6b0",
+        "topic_name": "Introduction",
+        "question": "When will the 2024 Arts Education textbooks be implemented?",
+        "answer": "April 2025.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "db6b8082-26f9-47ad-82b1-837068800986",
+        "topic_name": "Introduction",
+        "question": "What is the purpose of the Bridge Programme?",
+        "answer": "To address curricular gaps for students without prior structured Arts Education.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "9fee3cfe-9ef5-4b3e-8286-b43f14579686",
+        "topic_name": "Introduction",
+        "question": "How long is the Bridge Programme?",
+        "answer": "Six weeks.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "d277725b-e50b-4c42-ac2a-f48cc44e549a",
+        "topic_name": "Introduction",
+        "question": "What kind of activities does the Bridge Programme include?",
+        "answer": "Fun-filled, interactive games and activities.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "ba2c7fac-4275-4ba0-8819-52cec9451037",
+        "topic_name": "Introduction",
+        "question": "What type of learning environment does the Bridge Programme aim to create?",
+        "answer": "Interactive and playful.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "d62043ad-6bbf-471c-a42d-f11e36f5d6cb",
+        "topic_name": "Introduction",
+        "question": "What is the focus of the Bridge Programme regarding pedagogy?",
+        "answer": "Experiential and activity-based learning.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "d47112aa-3416-4216-91ba-c8c13f0409f9",
+        "topic_name": "Introduction",
+        "question": "What is a key goal of the Bridge programme regarding the new curriculum?",
+        "answer": "Smooth transition.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4c36e81a-24a1-4d93-b1ae-6a512e1e6c68",
+        "topic_name": "Introduction",
+        "question": "What does the Bridge Programme aim to help students develop?",
+        "answer": "Understanding of fundamental artistic concepts and practices.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "08aa5a84-5ef5-4254-8e8d-f4b30e03059e",
+        "topic_name": "Introduction",
+        "question": "Why is there a need for the Bridge Programme?",
+        "answer": "Because some students haven't had structured arts education in earlier grades.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "bebd6777-3b32-429c-8ab1-8487b75046ef",
+        "topic_name": "Curricular Goals",
+        "question": "What does CG-1 aim to develop in students?",
+        "answer": "Openness to explore and express through art forms.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "73249348-1f53-4f48-a8e7-dbbbe3789eb3",
+        "topic_name": "Curricular Goals",
+        "question": "What does CG-2 focus on?",
+        "answer": "Applying imagination and creativity through arts.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "3c5e2fe4-886e-4e5d-8374-d318c8bf13e5",
+        "topic_name": "Curricular Goals",
+        "question": "What is the emphasis of CG-3?",
+        "answer": "Understanding and applying artistic elements, processes, and techniques.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "07e1a2f4-f9a5-42ab-9b4e-bb6e43f6f7e3",
+        "topic_name": "Curricular Goals",
+        "question": "What does CG-4 aim to acquaint students with?",
+        "answer": "A range of aesthetic sensibilities in regional arts and cultural practices.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "60df71fb-69d7-44c7-bea2-da837e6f93bb",
+        "topic_name": "Curricular Goals",
+        "question": "What opportunities should Arts Education provide?",
+        "answer": "Adequate opportunities for self-expression through art.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "45ce3a94-5b38-4fd8-b333-0f697f01606b",
+        "topic_name": "Curricular Goals",
+        "question": "Why is learning basic techniques in art disciplines essential?",
+        "answer": "For building a vocabulary in each art form.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "7ac86a06-be6a-4829-93a5-3c8cf77e933d",
+        "topic_name": "Curricular Goals",
+        "question": "Why is it crucial for students to recognize Indian art traditions?",
+        "answer": "To understand their historical significance and learn techniques.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "64ef6961-8ec9-4edc-92fd-ab2426a7597f",
+        "topic_name": "Curricular Goals",
+        "question": "What is the benefit of multiple avenues in art?",
+        "answer": "Multiple approaches to understanding concepts.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "77dfa3fa-5e31-4800-bc69-5710e783539d",
+        "topic_name": "Curricular Goals",
+        "question": "How should students learn to understand art?",
+        "answer": "Through experience.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "c4a44ca9-b7f2-4961-89f3-abe182d1434a",
+        "topic_name": "Curricular Goals",
+        "question": "How do the arts relate to other curricular areas?",
+        "answer": "They are integrated with other areas.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "66a05338-67a4-432a-ace4-b62f5ce6587f",
+        "topic_name": "Curricular Goals",
+        "question": "What does comprehending the interconnectedness of arts add to?",
+        "answer": "Value to learning.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "0bdaedc8-9511-4967-bb26-adeaa65451e9",
+        "topic_name": "Curricular Goals",
+        "question": "What is the role of art in understanding experiences?",
+        "answer": "Making aesthetic sense of experiences.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4aa54390-83ab-49d9-8f92-d3a30dbbe069",
+        "topic_name": "Curricular Goals",
+        "question": "What does engagement with art build?",
+        "answer": "Capacities for being creative across subjects.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "35844c5e-4195-45b2-a3fd-af8c66479931",
+        "topic_name": "Curricular Goals",
+        "question": "What do students recognize when creating artwork collaboratively?",
+        "answer": "One another's strengths.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "a7d5e815-ca4e-4c89-9527-d4ed2e0a2fad",
+        "topic_name": "Curricular Goals",
+        "question": "What does learning basic techniques in art allow for?",
+        "answer": "Meaningful engagement and participation in culture.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "29a4cc0e-2076-4457-b3ef-2c26056ae512",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are two key aspects of Visual Arts?",
+        "answer": "Visualizing and drawing human figures, understanding proportions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "3a7e041d-c23c-4d11-b4cf-f710cfab6897",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is one activity in Visual Arts related to local culture?",
+        "answer": "Building a picture based on festivals and traditions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "e2475bdf-63a6-45db-95ab-5ab62f287d29",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is a three-dimensional exploration in Visual Arts?",
+        "answer": "Creating human figures using various materials.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "54d921c3-447a-4ca8-9b5a-d0c9001b2c1c",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What materials can be used for collage in Visual Arts?",
+        "answer": "Everyday materials.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4fe40457-ddee-45e4-8db6-d7a07d268200",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is a key aspect of Music education?",
+        "answer": "Introduction of terminologies and exploring elements of songs.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "d788ad7b-5186-432d-a387-265124ae73cd",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What forms of music are explored in the curriculum?",
+        "answer": "Lok Sangeet, Hindustani and Carnatic Music.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "ce33ddb8-46d5-43e4-84cc-0f247a7ae3fd",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "How is music connected to other art forms?",
+        "answer": "Through activities like creating musical storytelling based on paintings.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "85bfb295-f727-4519-8e0d-e2d654095726",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are the components of Dance education?",
+        "answer": "Body movements, postures, and simple terminologies.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "f9c3fbec-b774-4dcb-a015-fa894a732b9d",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What resources can be used for studying Dance?",
+        "answer": "Heritage monuments, textbooks, and the internet.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "0f57adc2-9184-4077-9757-619e11e93053",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are students encouraged to explore in Dance?",
+        "answer": "Different types of hand gestures and foot movements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "9fc09457-35fb-4bc0-a0c3-41c9119d39b8",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is introduced in Theatre education?",
+        "answer": "A brief history of Natyashastra and important terminologies.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "dba9dbc6-f658-473c-ad7e-e5bd0f50452d",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are the types of Abhinaya in Theatre?",
+        "answer": "Angika, Vachika, Ahaarya, and Sathvika.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b5f64abf-d007-48ec-90b2-759aa71fad8d",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What does Angika Abhinaya focus on?",
+        "answer": "Body movements and expressions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "c7697051-ddb8-41f3-8ad4-298a732a0cc9",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is the emphasis of Vachika Abhinaya?",
+        "answer": "Voice and clarity of speech.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "1302e681-7727-4ed7-81e2-ec92d0eb49e8",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What does Ahaarya Abhinaya involve?",
+        "answer": "Set design, props, and external elements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b972d154-80a7-42c4-acbf-c7f7fec5c26f",
+        "topic_name": "Introduction",
+        "question": "What kind of activities does the Bridge Programme include?",
+        "answer": "Fun-filled, interactive games and activities.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "358ebe51-e26f-4130-bdb4-e8f8cf9a837d",
+        "topic_name": "Introduction",
+        "question": "What policy introduced Arts Education as compulsory?",
+        "answer": "The National Education Policy (NEP-2020).",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "2a65de46-3bcc-4aa1-b38f-da502957ff7a",
+        "topic_name": "Introduction",
+        "question": "From which grade is Arts Education compulsory?",
+        "answer": "Grade 3.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "bd4686ae-9d25-43d6-996d-b9088936536f",
+        "topic_name": "Introduction",
+        "question": "Until which grade is Arts Education compulsory?",
+        "answer": "Grade 12.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "14ae8e31-5ac8-4fd8-8bc2-2d6c37e9f238",
+        "topic_name": "Introduction",
+        "question": "How is Arts Education integrated at the foundation stage?",
+        "answer": "With other curricular areas.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "b88285d1-7707-4b5e-bf30-609c9f40a808",
+        "topic_name": "Introduction",
+        "question": "Who is developing syllabi and textbooks for Arts Education?",
+        "answer": "NCERT.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "a56c1ff7-183b-4217-85ba-6324153da16d",
+        "topic_name": "Introduction",
+        "question": "For which grades did NCERT develop textbooks in 2024?",
+        "answer": "Grades 3 and 6.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "c972de2c-e417-42cb-8c06-dcc578b81b3f",
+        "topic_name": "Introduction",
+        "question": "When will the 2024 Arts Education textbooks be implemented?",
+        "answer": "April 2025.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "03afa0a8-8333-47fe-96d8-908c564559b2",
+        "topic_name": "Introduction",
+        "question": "What is the purpose of the Bridge Programme?",
+        "answer": "To address curricular gaps for students without prior structured Arts Education.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "7f1bced2-9f24-45b4-8393-a6657fcb9577",
+        "topic_name": "Introduction",
+        "question": "How long is the Bridge Programme?",
+        "answer": "Six weeks.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "6bf28699-0cb2-4a1c-9ab0-cf3d8241cb2d",
+        "topic_name": "Introduction",
+        "question": "What type of learning environment does the Bridge Programme aim to create?",
+        "answer": "Interactive and playful.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "02f6b477-f7b0-4a58-bca9-75b62c319ec0",
+        "topic_name": "Introduction",
+        "question": "What is the focus of the Bridge Programme regarding pedagogy?",
+        "answer": "Experiential and activity-based learning.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "650afe39-0b56-4ff4-b7c7-9ac980737a2c",
+        "topic_name": "Introduction",
+        "question": "What is a key goal of the Bridge programme regarding the new curriculum?",
+        "answer": "Smooth transition.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "de1948df-301d-4481-a9ee-7c9a749091c9",
+        "topic_name": "Introduction",
+        "question": "What does the Bridge Programme aim to help students develop?",
+        "answer": "Understanding of fundamental artistic concepts and practices.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e89b52e0-ebf3-4cb4-8d1f-3002743ddf47",
+        "topic_name": "Introduction",
+        "question": "Why is there a need for the Bridge Programme?",
+        "answer": "Because some students haven't had structured arts education in earlier grades.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "f13b2755-3372-4624-9989-2260001678c7",
+        "topic_name": "Curricular Goals",
+        "question": "What does CG-1 aim to develop in students?",
+        "answer": "Openness to explore and express through art forms.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "63e37490-78b1-480d-8bb3-f496b215bc3c",
+        "topic_name": "Curricular Goals",
+        "question": "What does CG-2 focus on?",
+        "answer": "Applying imagination and creativity through arts.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "ea198ab8-c249-4600-9b8a-cd8c62dccde4",
+        "topic_name": "Curricular Goals",
+        "question": "What is the emphasis of CG-3?",
+        "answer": "Understanding and applying artistic elements, processes, and techniques.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e9c18afd-3f99-454c-ac85-0d05e3cfb045",
+        "topic_name": "Curricular Goals",
+        "question": "What does CG-4 aim to acquaint students with?",
+        "answer": "A range of aesthetic sensibilities in regional arts and cultural practices.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "445b0d32-9fa2-4f82-bc6e-0918987d3688",
+        "topic_name": "Curricular Goals",
+        "question": "What opportunities should Arts Education provide?",
+        "answer": "Adequate opportunities for self-expression through art.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "b10ee87d-c7de-461e-a7cb-4025ec996ba2",
+        "topic_name": "Curricular Goals",
+        "question": "Why is learning basic techniques in art disciplines essential?",
+        "answer": "For building a vocabulary in each art form.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "fb6b6f85-465f-46c3-8875-cfe528639321",
+        "topic_name": "Curricular Goals",
+        "question": "Why is it crucial for students to recognize Indian art traditions?",
+        "answer": "To understand their historical significance and learn techniques.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "8afd1e91-ffbb-43da-ad7d-9df01fadb954",
+        "topic_name": "Curricular Goals",
+        "question": "What is the benefit of multiple avenues in art?",
+        "answer": "Multiple approaches to understanding concepts.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "39f083a7-725f-4605-839d-11fc1b7d2585",
+        "topic_name": "Curricular Goals",
+        "question": "How should students learn to understand art?",
+        "answer": "Through experience.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "45e9eb38-a254-4cf2-a989-6e34fd9b61a8",
+        "topic_name": "Curricular Goals",
+        "question": "How do the arts relate to other curricular areas?",
+        "answer": "They are integrated with other areas.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "9565cca1-30b9-4e33-9821-5e0aa673b824",
+        "topic_name": "Curricular Goals",
+        "question": "What does comprehending the interconnectedness of arts add to?",
+        "answer": "Value to learning.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "c82be953-0e81-4134-a00a-967caeb8ed31",
+        "topic_name": "Curricular Goals",
+        "question": "What is the role of art in understanding experiences?",
+        "answer": "Making aesthetic sense of experiences.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "5370656e-d26e-4797-90c8-f6ad5da95774",
+        "topic_name": "Curricular Goals",
+        "question": "What does engagement with art build?",
+        "answer": "Capacities for being creative across subjects.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "cda7373b-ffd0-4309-9d09-059e03633c2e",
+        "topic_name": "Curricular Goals",
+        "question": "What do students recognize when creating artwork collaboratively?",
+        "answer": "One another's strengths.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "fd143dfb-f7af-4cb0-8982-8dfb0628e5cc",
+        "topic_name": "Curricular Goals",
+        "question": "What does learning basic techniques in art allow for?",
+        "answer": "Meaningful engagement and participation in culture.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "020ae1ee-1f31-42e4-a43b-321681ceaeb2",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are two key aspects of Visual Arts?",
+        "answer": "Visualizing and drawing human figures, understanding proportions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e6f23752-ed23-46ca-9ac9-46232e781d7c",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is one activity in Visual Arts related to local culture?",
+        "answer": "Building a picture based on festivals and traditions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "2c5b9bd0-d09d-4149-a8fb-7c3a3d9312fc",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is a three-dimensional exploration in Visual Arts?",
+        "answer": "Creating human figures using various materials.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "211bae03-c6c7-41c3-b5ef-f51a48d75a1d",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What materials can be used for collage in Visual Arts?",
+        "answer": "Everyday materials.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "d33e7f3a-0921-4dc3-8055-228953b1062c",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is a key aspect of Music education?",
+        "answer": "Introduction of terminologies and exploring elements of songs.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "05efc182-484d-4610-9171-edcc32e0c532",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What forms of music are explored in the curriculum?",
+        "answer": "Lok Sangeet, Hindustani and Carnatic Music.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "087c0fa8-2b68-4e7f-84af-d39f94036a98",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "How is music connected to other art forms?",
+        "answer": "Through activities like creating musical storytelling based on paintings.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "6ea11745-c4b9-4e95-a418-40ceb5c5f457",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are the components of Dance education?",
+        "answer": "Body movements, postures, and simple terminologies.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "892cff43-1d3d-49fc-9c2f-9d3e6b104daf",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What resources can be used for studying Dance?",
+        "answer": "Heritage monuments, textbooks, and the internet.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "46cc68a3-7e5c-4c21-808a-648727a281cf",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are students encouraged to explore in Dance?",
+        "answer": "Different types of hand gestures and foot movements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "ec471dab-c855-433b-bdff-9a265f5f1986",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is introduced in Theatre education?",
+        "answer": "A brief history of Natyashastra and important terminologies.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "0b19d95a-25ac-4cc9-a0b6-78a7e50bb402",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What are the types of Abhinaya in Theatre?",
+        "answer": "Angika, Vachika, Ahaarya, and Sathvika.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e473bcf2-6ec1-439e-a307-a8f5e7823e13",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What does Angika Abhinaya focus on?",
+        "answer": "Body movements and expressions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "43e957fd-234c-494e-a4f2-b985bcff560a",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What is the emphasis of Vachika Abhinaya?",
+        "answer": "Voice and clarity of speech.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e1b0b244-d6ea-46bd-9831-8bbbaa706ca6",
+        "topic_name": "Subject-Specific Approaches",
+        "question": "What does Ahaarya Abhinaya involve?",
+        "answer": "Set design, props, and external elements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "fddb37a2-5865-41c3-bb40-005de4f7e477",
+        "topic_name": "Figure Drawing",
+        "question": "What shapes can be used to draw a human figure?",
+        "answer": "Basic geometric shapes.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "c969134a-8225-4fc0-b525-3080f82bc184",
+        "topic_name": "Figure Drawing",
+        "question": "What details should be added after drawing the basic figure?",
+        "answer": "Facial features, limbs, clothes, and accessories.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "8a2f8b4d-d606-40b6-9594-332e88b529b7",
+        "topic_name": "Figure Drawing",
+        "question": "What is the first step in figure drawing?",
+        "answer": "Visualizing geometric shapes in the body.",
+        "accuracy_score": 1,
+        "confidence_score": 95,
+        "is_repeated": false
+    },
+    {
+        "card_id": "a0f0323d-57f4-4f08-8185-9e36e4573a29",
+        "topic_name": "Figure Drawing",
+        "question": "What comes after visualizing shapes in figure drawing?",
+        "answer": "Drawing the body using those shapes.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "54d10575-bad5-48e6-b75b-652c43490bb3",
+        "topic_name": "Figure Drawing",
+        "question": "True or False:  Accessories are added before the basic figure is drawn.",
+        "answer": "False",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "24d6d628-97a0-418b-a060-1906dee330fb",
+        "topic_name": "Figure Drawing",
+        "question": "What is the purpose of using geometric shapes in figure drawing?",
+        "answer": "To simplify the human form.",
+        "accuracy_score": 2,
+        "confidence_score": 95,
+        "is_repeated": false
+    },
+    {
+        "card_id": "9807d168-c3e8-4b29-b4a6-e867276a49c6",
+        "topic_name": "Figure Drawing",
+        "question": "Name one geometric shape useful for drawing a human torso.",
+        "answer": "Rectangle or Oval",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "a69ca577-5dad-41a5-9e48-9ecc58a1eef4",
+        "topic_name": "Figure Drawing",
+        "question": "What can help you visualize shapes in a human figure?",
+        "answer": "Observing people around you.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "8037efbd-4c8d-460a-bd19-a9c7d540a1e3",
+        "topic_name": "Figure Drawing",
+        "question": "Why is it important to observe people for figure drawing?",
+        "answer": "To understand body proportions and poses.",
+        "accuracy_score": 2,
+        "confidence_score": 90,
+        "is_repeated": false
+    },
+    {
+        "card_id": "6184ea4f-371e-4cd4-9632-3e72a0d05656",
+        "topic_name": "Figure Drawing",
+        "question": "What are limbs in the context of figure drawing?",
+        "answer": "Arms and legs.",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "16f75d43-1031-423d-85a7-3d84c4c71d5b",
+        "topic_name": "Figure Drawing",
+        "question": "What helps make a figure drawing more realistic?",
+        "answer": "Adding details like clothes and accessories.",
+        "accuracy_score": 2,
+        "confidence_score": 90,
+        "is_repeated": false
+    },
+    {
+        "card_id": "73798172-3599-41f9-a323-c5627fa7dd21",
+        "topic_name": "Figure Drawing",
+        "question": "What are some examples of accessories in figure drawing?",
+        "answer": "Hats, bags, jewelry.",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "6e3c7bbf-a7e2-4587-bce9-7afc547c929b",
+        "topic_name": "Figure Drawing",
+        "question": "Fill in the blank: Observe people and ______ basic geometric shapes in their bodies.",
+        "answer": "Visualize",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "6a77cc53-fd9a-4978-b53a-227c9de788ed",
+        "topic_name": "Figure Drawing",
+        "question": "Fill in the blank: After drawing with shapes, add ______ features.",
+        "answer": "Facial",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "47974e22-9a25-41ef-8495-5f61c8d2dfc0",
+        "topic_name": "Figure Drawing",
+        "question": "Fill in the blank: ______ of limbs and clothes make the drawing more detailed.",
+        "answer": "Details",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "42ba537c-2003-4a93-a090-e68a563b1539",
+        "topic_name": "Human Figure Proportions",
+        "question": "What body part can be used as a unit of measurement for proportions?",
+        "answer": "Head",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "36db9263-98ba-439a-8b1b-6ab1537ea83f",
+        "topic_name": "Human Figure Proportions",
+        "question": "How can you measure your head for proportions?",
+        "answer": "Span of your hand from top to chin.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "e1e44fd8-bd03-4c06-8bb1-496430e953b0",
+        "topic_name": "Human Figure Proportions",
+        "question": "Approximately how many head spans is the width of shoulders?",
+        "answer": "1.5 to 2",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "1c9847a9-4873-468e-97b6-dd605b9b58af",
+        "topic_name": "Human Figure Proportions",
+        "question": "What should you do after measuring body parts with head spans?",
+        "answer": "Draw a standing figure starting with the head.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b4c62479-e7b2-4b50-8bb6-22feb43c4fa1",
+        "topic_name": "Human Figure Proportions",
+        "question": "What is the relationship between head size and other body parts in figure drawing?",
+        "answer": "Proportions",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "d8e91c32-f1d9-4541-b122-0f09038eaf8e",
+        "topic_name": "Human Figure Proportions",
+        "question": "What should you add after drawing the body in proportion?",
+        "answer": "Facial features, clothes, and accessories.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "5a21b241-f031-40f8-9689-a64d9ff7802b",
+        "topic_name": "Human Figure Proportions",
+        "question": "Why is measuring body parts important in figure drawing?",
+        "answer": "To maintain realistic proportions.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": false
+    },
+    {
+        "card_id": "bf0752ba-d014-4ec4-87cd-968c6e25ade5",
+        "topic_name": "Human Figure Proportions",
+        "question": "What is the recommended starting point for drawing a proportional figure?",
+        "answer": "The head.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "7661a31d-8b68-42bb-8975-708405d3e8b8",
+        "topic_name": "Human Figure Proportions",
+        "question": "Besides length, what other dimension is important in figure drawing proportions?",
+        "answer": "Width",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "0d9ad342-a62c-4439-a9b7-6dae0e22aaea",
+        "topic_name": "Human Figure Proportions",
+        "question": "What are some examples of body widths to consider in figure drawing?",
+        "answer": "Waist and hips.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "ef7bd589-daa6-4205-91fc-80ca07c32ccd",
+        "topic_name": "Human Figure Proportions",
+        "question": "What are some examples of body lengths to consider in proportional figure drawing?",
+        "answer": "Arms, legs, neck to navel.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b713120b-60f1-474c-a932-921fc4875db1",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank:  Measure your head using your ______.",
+        "answer": "Hand span",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "af459821-2360-4fab-aa98-291eebbd2610",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank: Draw other body parts in ______ to the head.",
+        "answer": "Proportion",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "a76c5309-e127-4d00-bbd6-16ef52a0a82d",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank:  The distance from the neck to the ______ is a key proportion.",
+        "answer": "Navel",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "cba2c236-9e9e-43d5-9b7b-dd3e9ebde8af",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank:  ______ and feet also have proportional relationships to the head.",
+        "answer": "Hands",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "42c8463e-5114-4d10-a92d-b64705423846",
+        "topic_name": "Outdoor Scene",
+        "question": "What should you imagine around your standing figure?",
+        "answer": "A busy space like a festival, market, or mela.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "1bfdfc1d-db68-44d5-b91e-354622c9d4fb",
+        "topic_name": "Outdoor Scene",
+        "question": "What elements can be added to create an outdoor scene?",
+        "answer": "Objects, people, trees, plants, and animals.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "2eac74ed-93c8-49f2-9682-e1d611d9be0c",
+        "topic_name": "Outdoor Scene",
+        "question": "How can you create depth in your outdoor scene?",
+        "answer": "By varying the size of objects and people to show distance.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "f9a0fc90-dd2b-4b33-9ca6-eb461294eb85",
+        "topic_name": "Outdoor Scene",
+        "question": "What is the process of arranging different elements in a scene called?",
+        "answer": "Composition.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "26b20f4e-8e2c-4a67-8530-48a41d7b2610",
+        "topic_name": "Outdoor Scene",
+        "question": "What should be done after drawing the figure for the outdoor scene?",
+        "answer": "Imagine a busy space around it.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "659c7b35-8c90-4750-9b06-00fee5fdf4e9",
+        "topic_name": "Outdoor Scene",
+        "question": "Why vary the size of elements in an outdoor scene?",
+        "answer": "To depict spatial depth and distance.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "6b39d1d7-e9bd-4c03-839f-5c046b3dd9d0",
+        "topic_name": "Outdoor Scene",
+        "question": "What does \"composition\" mean in art?",
+        "answer": "The arrangement of elements within an artwork.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": false
+    },
+    {
+        "card_id": "176e80f0-1e95-416f-936f-4a18c2042e1e",
+        "topic_name": "Outdoor Scene",
+        "question": "What are some examples of busy spaces that can inspire an outdoor scene?",
+        "answer": "Festivals, markets, melas.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "1566ade9-f949-45bb-9626-876f87cb772f",
+        "topic_name": "Outdoor Scene",
+        "question": "How can you show that an object is far away in a drawing?",
+        "answer": "Draw it smaller.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "efe8deaf-d647-4ea4-83f8-68cd736458ea",
+        "topic_name": "Outdoor Scene",
+        "question": "What should be considered when creating a composition?",
+        "answer": "Balance, focal point, and visual flow.",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "2a313e14-7aaf-43e6-b254-8c7297631e1b",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Add objects like trees, plants, and ______ to the scene.",
+        "answer": "Animals",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "3180099e-a757-4f9f-b1e3-b3b151ed21b1",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Arrange elements to create a ______.",
+        "answer": "Composition",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "3cdd31de-3a2f-4ecc-8168-fb320a188dff",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank:  Vary the size of objects to show ______.",
+        "answer": "Distance",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b12ab12e-8c4d-4934-a68a-c5ab0213bd06",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Imagine a busy space like a ______ around the figure.",
+        "answer": "Market",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "9ba7c332-c333-44fc-a96e-a2a6634a1f70",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Depict scenes from your own life ______.",
+        "answer": "Experiences",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b0c51009-53f1-48ac-9e9c-b3dcbf6334f8",
+        "topic_name": "Figure Drawing",
+        "question": "Fill in the blank: After drawing with shapes, add ______ features.",
+        "answer": "Facial",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "ffe90b0a-d6b9-41a8-96a0-1f2b0fa97a25",
+        "topic_name": "Figure Drawing",
+        "question": "What shapes can be used to draw a human figure?",
+        "answer": "Basic geometric shapes.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "754544a4-ac0d-4b42-b945-eddd6327f598",
+        "topic_name": "Figure Drawing",
+        "question": "What details should be added after drawing the basic figure?",
+        "answer": "Facial features, limbs, clothes, and accessories.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "c39f911b-261b-404b-8b56-a95ca1e18ff8",
+        "topic_name": "Figure Drawing",
+        "question": "What is the first step in figure drawing?",
+        "answer": "Visualizing geometric shapes in the body.",
+        "accuracy_score": 1,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "adfb1394-92c6-4e49-9831-f67e722b3469",
+        "topic_name": "Figure Drawing",
+        "question": "What comes after visualizing shapes in figure drawing?",
+        "answer": "Drawing the body using those shapes.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "de20a022-5633-4b5d-894a-1997eac6118e",
+        "topic_name": "Figure Drawing",
+        "question": "True or False:  Accessories are added before the basic figure is drawn.",
+        "answer": "False",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "df506394-a7d4-49d6-a2a1-c92296ad507b",
+        "topic_name": "Figure Drawing",
+        "question": "What is the purpose of using geometric shapes in figure drawing?",
+        "answer": "To simplify the human form.",
+        "accuracy_score": 2,
+        "confidence_score": 95,
+        "is_repeated": true
+    },
+    {
+        "card_id": "66e658f9-337f-49ae-8dde-94d19f7e2e54",
+        "topic_name": "Figure Drawing",
+        "question": "Name one geometric shape useful for drawing a human torso.",
+        "answer": "Rectangle or Oval",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "f4317a30-da45-4dbe-a378-20a0563dbebf",
+        "topic_name": "Figure Drawing",
+        "question": "What can help you visualize shapes in a human figure?",
+        "answer": "Observing people around you.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "2b5a6db3-f061-453e-8c6f-de0bb78ce96f",
+        "topic_name": "Figure Drawing",
+        "question": "Why is it important to observe people for figure drawing?",
+        "answer": "To understand body proportions and poses.",
+        "accuracy_score": 2,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "05a255b2-82dc-46d9-97b5-a88856a9c3d1",
+        "topic_name": "Figure Drawing",
+        "question": "What are limbs in the context of figure drawing?",
+        "answer": "Arms and legs.",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "1fc6d363-0fa6-4f53-ade2-25c1fce1b658",
+        "topic_name": "Figure Drawing",
+        "question": "What helps make a figure drawing more realistic?",
+        "answer": "Adding details like clothes and accessories.",
+        "accuracy_score": 2,
+        "confidence_score": 80,
+        "is_repeated": true
+    },
+    {
+        "card_id": "be6a5313-c7cc-4ac2-946f-087e1aa17aa9",
+        "topic_name": "Figure Drawing",
+        "question": "What are some examples of accessories in figure drawing?",
+        "answer": "Hats, bags, jewelry.",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "64ed9259-fb60-45f6-95c4-026cfef9b26d",
+        "topic_name": "Figure Drawing",
+        "question": "Fill in the blank: Observe people and ______ basic geometric shapes in their bodies.",
+        "answer": "Visualize",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "b882fa87-f7d6-4bea-a09c-fd7ec4bd9b37",
+        "topic_name": "Figure Drawing",
+        "question": "Fill in the blank: ______ of limbs and clothes make the drawing more detailed.",
+        "answer": "Details",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "1ea35c73-e60a-4a23-8c1c-12eb46227c6d",
+        "topic_name": "Human Figure Proportions",
+        "question": "What body part can be used as a unit of measurement for proportions?",
+        "answer": "Head",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e58f7b71-7eb2-466f-ab9d-eb74077498d0",
+        "topic_name": "Human Figure Proportions",
+        "question": "How can you measure your head for proportions?",
+        "answer": "Span of your hand from top to chin.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "635784ed-f654-477c-907f-a11b9221ca43",
+        "topic_name": "Human Figure Proportions",
+        "question": "Approximately how many head spans is the width of shoulders?",
+        "answer": "1.5 to 2",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "f024ac13-1c74-49bd-82a6-e4903e16e8a1",
+        "topic_name": "Human Figure Proportions",
+        "question": "What should you do after measuring body parts with head spans?",
+        "answer": "Draw a standing figure starting with the head.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "2789a0bb-8a2d-4945-ab47-ad7251e06d56",
+        "topic_name": "Human Figure Proportions",
+        "question": "What is the relationship between head size and other body parts in figure drawing?",
+        "answer": "Proportions",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "8b519f5b-e7d7-4566-abaf-f473b515e254",
+        "topic_name": "Human Figure Proportions",
+        "question": "What should you add after drawing the body in proportion?",
+        "answer": "Facial features, clothes, and accessories.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e50e7da0-2aca-478b-888f-60c76020e841",
+        "topic_name": "Human Figure Proportions",
+        "question": "Why is measuring body parts important in figure drawing?",
+        "answer": "To maintain realistic proportions.",
+        "accuracy_score": 3,
+        "confidence_score": 95,
+        "is_repeated": true
+    },
+    {
+        "card_id": "f77153ad-7ef0-4e4e-8290-c6ffdec8e004",
+        "topic_name": "Human Figure Proportions",
+        "question": "What is the recommended starting point for drawing a proportional figure?",
+        "answer": "The head.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "04738205-043e-4cc8-be75-7dddd5c893dd",
+        "topic_name": "Human Figure Proportions",
+        "question": "Besides length, what other dimension is important in figure drawing proportions?",
+        "answer": "Width",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "093fd7c0-5ffc-4245-9db9-c4b251e53c0e",
+        "topic_name": "Human Figure Proportions",
+        "question": "What are some examples of body widths to consider in figure drawing?",
+        "answer": "Waist and hips.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "caf3bb96-d11b-461d-99dc-be29d756be0f",
+        "topic_name": "Human Figure Proportions",
+        "question": "What are some examples of body lengths to consider in proportional figure drawing?",
+        "answer": "Arms, legs, neck to navel.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "6d6f167c-ff50-4392-9612-2c1868116572",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank:  Measure your head using your ______.",
+        "answer": "Hand span",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "217a39bf-5132-48e3-a969-089b3528bb5e",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank: Draw other body parts in ______ to the head.",
+        "answer": "Proportion",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "b4062a91-481f-4bfa-b27f-f42abb7e8d02",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank:  The distance from the neck to the ______ is a key proportion.",
+        "answer": "Navel",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "90b45a78-e621-47ad-b354-0337312f0024",
+        "topic_name": "Human Figure Proportions",
+        "question": "Fill in the blank:  ______ and feet also have proportional relationships to the head.",
+        "answer": "Hands",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "3f6837a9-011d-491e-ad21-59af5cbe0f11",
+        "topic_name": "Outdoor Scene",
+        "question": "What should you imagine around your standing figure?",
+        "answer": "A busy space like a festival, market, or mela.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "4d94837d-22b4-4b4f-a83e-fbad2a879ca5",
+        "topic_name": "Outdoor Scene",
+        "question": "What elements can be added to create an outdoor scene?",
+        "answer": "Objects, people, trees, plants, and animals.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "cf822173-d567-4720-b6b9-7fe6d37f247c",
+        "topic_name": "Outdoor Scene",
+        "question": "How can you create depth in your outdoor scene?",
+        "answer": "By varying the size of objects and people to show distance.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "f33566a3-3f4a-4d6b-90bd-14cd60528aeb",
+        "topic_name": "Outdoor Scene",
+        "question": "What is the process of arranging different elements in a scene called?",
+        "answer": "Composition.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "92b20744-bb4c-4792-a093-a6145c0f7d25",
+        "topic_name": "Outdoor Scene",
+        "question": "What should be done after drawing the figure for the outdoor scene?",
+        "answer": "Imagine a busy space around it.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "ad3530cf-11fb-46c5-94b9-63900b2c5ceb",
+        "topic_name": "Outdoor Scene",
+        "question": "Why vary the size of elements in an outdoor scene?",
+        "answer": "To depict spatial depth and distance.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "f380649d-21d1-4a1f-af9d-6ad0ee52da86",
+        "topic_name": "Outdoor Scene",
+        "question": "What does \"composition\" mean in art?",
+        "answer": "The arrangement of elements within an artwork.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": true
+    },
+    {
+        "card_id": "c0d1e5ef-a45b-4c1a-a3ec-df40f3e408c1",
+        "topic_name": "Outdoor Scene",
+        "question": "What are some examples of busy spaces that can inspire an outdoor scene?",
+        "answer": "Festivals, markets, melas.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "d987957a-c733-41b4-b847-550dcaa76c03",
+        "topic_name": "Outdoor Scene",
+        "question": "How can you show that an object is far away in a drawing?",
+        "answer": "Draw it smaller.",
+        "accuracy_score": 4,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e113b9b7-5422-4109-8459-84661a7da77d",
+        "topic_name": "Outdoor Scene",
+        "question": "What should be considered when creating a composition?",
+        "answer": "Balance, focal point, and visual flow.",
+        "accuracy_score": 2,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "f63a2af7-930a-4535-b62c-7397bee4ae6c",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Add objects like trees, plants, and ______ to the scene.",
+        "answer": "Animals",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "a001152f-d82c-4a44-904e-ff30c6ff8c7c",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Arrange elements to create a ______.",
+        "answer": "Composition",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "df2097d7-eac9-40ac-bb85-4d0c168912d5",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank:  Vary the size of objects to show ______.",
+        "answer": "Distance",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e067d732-c421-4a75-a29c-8835b64d62f7",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Imagine a busy space like a ______ around the figure.",
+        "answer": "Market",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "85934f29-ea47-41d4-86db-e5c69e134a66",
+        "topic_name": "Outdoor Scene",
+        "question": "Fill in the blank: Depict scenes from your own life ______.",
+        "answer": "Experiences",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "0255f97b-fef5-4520-9975-ffcbe48d8caf",
+        "topic_name": "Musical Narrative",
+        "question": "Name one Indian form of musical storytelling.",
+        "answer": "Powada.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "d9153493-cb47-4203-97c9-b9c77ffb4a26",
+        "topic_name": "Musical Narrative",
+        "question": "Besides Powada, mention another form of musical storytelling.",
+        "answer": "Kaavad Katha.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "c1d2dec3-5b49-4bc7-adc5-33baed074634",
+        "topic_name": "Musical Narrative",
+        "question": "What is Alha-Udal?",
+        "answer": "A form of musical storytelling.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "d1052caf-eee2-40f9-87f5-498799eee5ae",
+        "topic_name": "Musical Narrative",
+        "question": "What is a musical narrative?",
+        "answer": "A story told through music.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4de473da-ff9b-4238-81f3-5d44817620dd",
+        "topic_name": "Musical Narrative",
+        "question": "Give an example of a historical event that could be a musical narrative.",
+        "answer": "The story of Prabhavati Gupta.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "5f4ce3ab-0c9c-4f63-8dba-9612b367f4e7",
+        "topic_name": "Musical Narrative",
+        "question": "What is the first step in creating a musical narrative?",
+        "answer": "Choose a historical event.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "2e76e5c5-a94e-4e4c-88e0-0bca6ed3865d",
+        "topic_name": "Musical Narrative",
+        "question": "After choosing an event, what should you do?",
+        "answer": "Write a paragraph describing it.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "22631aa3-2f6e-4a52-8058-998530dbce51",
+        "topic_name": "Musical Narrative",
+        "question": "What visual element can accompany a musical narrative?",
+        "answer": "An illustration of the event.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4a27faf5-ef7e-4c2a-ac35-e9eb658ee333",
+        "topic_name": "Musical Narrative",
+        "question": "How can you transform your written description into a musical narrative?",
+        "answer": "Sing the lines in a tune of your choice.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4f2c952f-c387-4729-9a02-da95d676261f",
+        "topic_name": "Musical Narrative",
+        "question": "How can you enrich your musical narrative project?",
+        "answer": "Research other art forms.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "cc6a36a2-9f07-4b23-9df2-aeed944a4c13",
+        "topic_name": "Musical Narrative",
+        "question": "What is the purpose of art integration?",
+        "answer": "To connect learning with art and culture.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "0c51f70b-64fc-4c8f-ac27-b45a3f938762",
+        "topic_name": "Musical Narrative",
+        "question": "Why is art integration important in education?",
+        "answer": "It strengthens links between education and culture.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "9be6952a-ea86-43f9-9b04-a01ca642404a",
+        "topic_name": "Musical Narrative",
+        "question": "How does art integration contribute to classroom learning?",
+        "answer": "Creates joyful classrooms and imbibes Indian ethos.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "cb5fe889-a0fe-453e-8d4c-a0f1867a5125",
+        "topic_name": "Musical Narrative",
+        "question": "What is the aim of integrating Indian art and culture?",
+        "answer": "To enhance the teaching and learning process.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "541b8b99-6272-4b56-ac9b-ebbfbf1b1ee2",
+        "topic_name": "Musical Narrative",
+        "question": "How can musical narratives be linked to other art forms?",
+        "answer": "By incorporating visual arts, dance, or drama.",
+        "accuracy_score": 4,
+        "confidence_score": 90,
+        "is_repeated": false
+    },
+    {
+        "card_id": "032295c7-1b2e-4417-87ff-caa03d10a0b5",
+        "topic_name": "Dance",
+        "question": "What are the fundamentals of dance posture?",
+        "answer": "Basic movement patterns and body bends.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "32925c35-1a93-460f-b545-18aa10ede41d",
+        "topic_name": "Dance",
+        "question": "What is expressive movement in dance?",
+        "answer": "Using body postures to convey emotions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "e3642650-6561-4743-bfb0-989b5ef7ba42",
+        "topic_name": "Dance",
+        "question": "How can heritage inspire dance?",
+        "answer": "By recreating postures from historical sculptures.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "eb9526ed-33b7-4e6c-a975-836331513350",
+        "topic_name": "Dance",
+        "question": "What is the role of footwork in dance?",
+        "answer": "To create rhythmic expressions with body movements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "18b30064-4674-466a-929c-794940901358",
+        "topic_name": "Dance",
+        "question": "How can natural elements be incorporated into dance?",
+        "answer": "Through imitating movements like rain or wind.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "768a1d33-4a00-4058-b0b0-090f6f87b617",
+        "topic_name": "Dance",
+        "question": "What is the purpose of gestures and mudras in dance?",
+        "answer": "Non-verbal communication.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "72b0ade8-2bc4-471d-82ad-fe1147422219",
+        "topic_name": "Dance",
+        "question": "What are hastamudras?",
+        "answer": "Hand gestures used to convey meaning.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "3df0c6a0-4f00-4415-9376-06b583196191",
+        "topic_name": "Dance",
+        "question": "What are the nine emotional states in Indian dance?",
+        "answer": "Navarasa.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "8c87de1f-fe1c-4255-9d44-1a1977e6a15c",
+        "topic_name": "Dance",
+        "question": "What is Bhava in dance?",
+        "answer": "An emotional state.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "28d32fb1-1792-4c79-a923-f93636642dcf",
+        "topic_name": "Dance",
+        "question": "What is Rasa in dance?",
+        "answer": "The aesthetic flavor of an emotion.",
+        "accuracy_score": 2,
+        "confidence_score": 95,
+        "is_repeated": false
+    },
+    {
+        "card_id": "3eb1d180-dbd6-4b2b-b6ca-e94fa3b72f8d",
+        "topic_name": "Dance",
+        "question": "What is Nritta?",
+        "answer": "Pure dance focused on rhythmic footwork and geometrical body movements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "48c7047b-a85c-470b-ac79-a476ff18edb3",
+        "topic_name": "Dance",
+        "question": "What is Nritya?",
+        "answer": "Expressive dance that conveys a story or emotion.",
+        "accuracy_score": 2,
+        "confidence_score": 90,
+        "is_repeated": false
+    },
+    {
+        "card_id": "ac6ffa54-1559-4477-ace5-4347d3396310",
+        "topic_name": "Dance",
+        "question": "What is Natya?",
+        "answer": "Theatrical performance that combines dance, drama, and music.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": false
+    },
+    {
+        "card_id": "9d9022a0-206c-4f0f-8561-b533d40a7aa4",
+        "topic_name": "Dance",
+        "question": "What is the role of choreography in Natya?",
+        "answer": "To create a structured and meaningful performance.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4923ab95-4d8a-4956-95af-a295ccfee50b",
+        "topic_name": "Dance",
+        "question": "What are some elements of a Natya performance?",
+        "answer": "Improvisation, props, costumes, and music.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "5a263c07-ec4f-4626-891d-902bebd4983e",
+        "topic_name": "Theatre",
+        "question": "What are Angika activities in theatre?",
+        "answer": "Activities related to body movement and expression.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "888c2830-2ba7-4c08-82e9-6f5bf2f1918c",
+        "topic_name": "Theatre",
+        "question": "What is the 'Mirror Game' in theatre?",
+        "answer": "An exercise where participants mirror each other's movements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "cdf70532-383d-4d1b-9d3d-3010801fc947",
+        "topic_name": "Theatre",
+        "question": "What is the concept of symmetry in the 'Mirror Game'?",
+        "answer": "Mirroring movements while maintaining opposite sides.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "593e8fdf-8a00-4a97-9a0e-4a64828c967f",
+        "topic_name": "Theatre",
+        "question": "What is the 'Walk of Wonder' exercise?",
+        "answer": "An activity involving variations in walking speed and style.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "b2dd9f2e-6161-4c12-be03-650a4445761e",
+        "topic_name": "Theatre",
+        "question": "What is the 'Freeze and Justify' exercise?",
+        "answer": "Freezing in a pose and explaining the intended action.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "44193dcf-af11-492e-bdb3-dda9c0c6ab63",
+        "topic_name": "Theatre",
+        "question": "What are 'Group Structures' in theatre?",
+        "answer": "Activities involving group formations and scene depiction.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "eb499d69-4c85-4a61-bd32-b0ce7f383fc9",
+        "topic_name": "Theatre",
+        "question": "What are Vachika activities in theatre?",
+        "answer": "Activities related to voice and speech.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "f038fadb-6257-47db-85a0-368cf57c2c73",
+        "topic_name": "Theatre",
+        "question": "What are tongue twisters used for in theatre?",
+        "answer": "Improving pronunciation and speech clarity.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "0e44d77a-f250-477c-bf90-b3f6219f293b",
+        "topic_name": "Theatre",
+        "question": "What is pitch in voice?",
+        "answer": "The highness or lowness of a sound.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "710a8e65-33a5-4913-811d-9ede13ec9b21",
+        "topic_name": "Theatre",
+        "question": "What is tone in voice?",
+        "answer": "The emotional quality of speech.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "195cf1a4-5a49-41bd-93f9-3906bf1d505b",
+        "topic_name": "Theatre",
+        "question": "What is speed in speech?",
+        "answer": "The pace at which words are spoken.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "ae791cc7-b172-4bbc-8597-6e079bc3223c",
+        "topic_name": "Theatre",
+        "question": "What are intonations?",
+        "answer": "Variations in pitch and tone to emphasize words or phrases.",
+        "accuracy_score": 2,
+        "confidence_score": 90,
+        "is_repeated": false
+    },
+    {
+        "card_id": "80f68382-afa7-4aac-9a2c-d9e08200f70a",
+        "topic_name": "Theatre",
+        "question": "What are Ahaarya activities in theatre?",
+        "answer": "Activities related to costumes, props, and set design.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "bea0cc2d-f5c9-49de-965a-14f9421811ad",
+        "topic_name": "Theatre",
+        "question": "What are Sathvika activities in theatre?",
+        "answer": "Activities related to expressing emotions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": false
+    },
+    {
+        "card_id": "04d63b0f-d4a4-4d67-b87f-d0bef7be4fcd",
+        "topic_name": "Theatre",
+        "question": "What are the Navarasas in theatre?",
+        "answer": "Nine emotional states: love, laughter, sorrow, anger, valor, wonder, fear, disgust, and peace.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": false
+    },
+    {
+        "card_id": "4e5bcfdc-27e9-46ff-bc43-2e1e8296f871",
+        "topic_name": "Musical Narrative",
+        "question": "What is a musical narrative?",
+        "answer": "A story told through music.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "1c6e1cd0-b804-4c99-a1c1-a55dba057239",
+        "topic_name": "Musical Narrative",
+        "question": "Give an example of a historical event that could be a musical narrative.",
+        "answer": "The story of Prabhavati Gupta.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "5a50f57c-eb2c-4cdb-a8f0-2a96b323a302",
+        "topic_name": "Musical Narrative",
+        "question": "What is the first step in creating a musical narrative?",
+        "answer": "Choose a historical event.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "ad1d0cba-ffc7-4d42-96b3-03c5e62133cc",
+        "topic_name": "Musical Narrative",
+        "question": "After choosing an event, what should you do?",
+        "answer": "Write a paragraph describing it.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "839b702e-43af-4513-9afe-510860d84e42",
+        "topic_name": "Musical Narrative",
+        "question": "What visual element can accompany a musical narrative?",
+        "answer": "An illustration of the event.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "fe9b887f-c3f2-4c16-9947-e86d7210826c",
+        "topic_name": "Musical Narrative",
+        "question": "How can you transform your written description into a musical narrative?",
+        "answer": "Sing the lines in a tune of your choice.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e79ed672-0066-4ec2-a2fb-ea20f7223d08",
+        "topic_name": "Musical Narrative",
+        "question": "Name one Indian form of musical storytelling.",
+        "answer": "Powada.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "bcf8595b-4071-4fe1-9907-279c1e28f280",
+        "topic_name": "Musical Narrative",
+        "question": "Besides Powada, mention another form of musical storytelling.",
+        "answer": "Kaavad Katha.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "bee35ae2-6f9b-4caa-b5f7-0fcd07f88c99",
+        "topic_name": "Musical Narrative",
+        "question": "What is Alha-Udal?",
+        "answer": "A form of musical storytelling.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "7261f7c1-b0e9-49dd-8a74-c83f924ef429",
+        "topic_name": "Musical Narrative",
+        "question": "How can you enrich your musical narrative project?",
+        "answer": "Research other art forms.",
+        "accuracy_score": 4,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "124f0a9d-12e2-4e8d-8c1b-7f867b905fd7",
+        "topic_name": "Musical Narrative",
+        "question": "What is the purpose of art integration?",
+        "answer": "To connect learning with art and culture.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "9f8dd24f-f321-465a-bb88-4efec3b05fe5",
+        "topic_name": "Musical Narrative",
+        "question": "Why is art integration important in education?",
+        "answer": "It strengthens links between education and culture.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "8960b5b7-685c-4064-959c-88c4de276d87",
+        "topic_name": "Musical Narrative",
+        "question": "How does art integration contribute to classroom learning?",
+        "answer": "Creates joyful classrooms and imbibes Indian ethos.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "eab4caca-b04e-48f7-addf-7a2977171502",
+        "topic_name": "Musical Narrative",
+        "question": "What is the aim of integrating Indian art and culture?",
+        "answer": "To enhance the teaching and learning process.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "9c66a53e-ee16-468f-8af9-1cb78f1d5f5f",
+        "topic_name": "Musical Narrative",
+        "question": "How can musical narratives be linked to other art forms?",
+        "answer": "By incorporating visual arts, dance, or drama.",
+        "accuracy_score": 3,
+        "confidence_score": 80,
+        "is_repeated": true
+    },
+    {
+        "card_id": "07793c83-b469-4477-a414-dc12f8d243e1",
+        "topic_name": "Dance",
+        "question": "What are the fundamentals of dance posture?",
+        "answer": "Basic movement patterns and body bends.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "0ac4c41c-936e-4fb3-b5ac-2edca5109010",
+        "topic_name": "Dance",
+        "question": "What is expressive movement in dance?",
+        "answer": "Using body postures to convey emotions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "8f125854-be5a-495c-95e2-af54e48b4c99",
+        "topic_name": "Dance",
+        "question": "How can heritage inspire dance?",
+        "answer": "By recreating postures from historical sculptures.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "5246c7ce-4e68-409e-8ddd-8749ddb25170",
+        "topic_name": "Dance",
+        "question": "What is the role of footwork in dance?",
+        "answer": "To create rhythmic expressions with body movements.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": true
+    },
+    {
+        "card_id": "0959e76b-6887-4854-9942-d32ca3c0aa55",
+        "topic_name": "Dance",
+        "question": "How can natural elements be incorporated into dance?",
+        "answer": "Through imitating movements like rain or wind.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "46e3b5d7-dbde-46f7-b570-68cc88e835e2",
+        "topic_name": "Dance",
+        "question": "What is the purpose of gestures and mudras in dance?",
+        "answer": "Non-verbal communication.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "17fc47ac-777b-4ae5-98be-6952acd6e32b",
+        "topic_name": "Dance",
+        "question": "What are hastamudras?",
+        "answer": "Hand gestures used to convey meaning.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "30361a66-c9ab-4de3-b8ef-2653edf28e88",
+        "topic_name": "Dance",
+        "question": "What are the nine emotional states in Indian dance?",
+        "answer": "Navarasa.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "3f512038-32f1-4f07-9b2e-4706855ead6c",
+        "topic_name": "Dance",
+        "question": "What is Bhava in dance?",
+        "answer": "An emotional state.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "728098aa-0756-4734-a687-7a10db481eb2",
+        "topic_name": "Dance",
+        "question": "What is Rasa in dance?",
+        "answer": "The aesthetic flavor of an emotion.",
+        "accuracy_score": 2,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "870103ce-d0b8-4607-8ce2-a38facc9c339",
+        "topic_name": "Dance",
+        "question": "What is Nritta?",
+        "answer": "Pure dance focused on rhythmic footwork and geometrical body movements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "395fcdaa-74ae-4545-9aa4-fcb5c5c587b7",
+        "topic_name": "Dance",
+        "question": "What is Nritya?",
+        "answer": "Expressive dance that conveys a story or emotion.",
+        "accuracy_score": 2,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "8217ac4c-3d20-4048-9b18-2a42538ed6f0",
+        "topic_name": "Dance",
+        "question": "What is Natya?",
+        "answer": "Theatrical performance that combines dance, drama, and music.",
+        "accuracy_score": 4,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "0a86016d-8a96-41a4-9c71-48489b88154b",
+        "topic_name": "Dance",
+        "question": "What is the role of choreography in Natya?",
+        "answer": "To create a structured and meaningful performance.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": true
+    },
+    {
+        "card_id": "16f91e43-2f9e-48c0-8fc1-f1b7b5a65e26",
+        "topic_name": "Dance",
+        "question": "What are some elements of a Natya performance?",
+        "answer": "Improvisation, props, costumes, and music.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "82f80175-926b-46a2-aa55-e2add7da8106",
+        "topic_name": "Theatre",
+        "question": "What are Angika activities in theatre?",
+        "answer": "Activities related to body movement and expression.",
+        "accuracy_score": 4,
+        "confidence_score": 90,
+        "is_repeated": true
+    },
+    {
+        "card_id": "e68a0488-bdaf-422d-9bdf-62b283985750",
+        "topic_name": "Theatre",
+        "question": "What is the 'Mirror Game' in theatre?",
+        "answer": "An exercise where participants mirror each other's movements.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "9e960fd0-6fe1-413d-9057-29ac5cdb8441",
+        "topic_name": "Theatre",
+        "question": "What is the concept of symmetry in the 'Mirror Game'?",
+        "answer": "Mirroring movements while maintaining opposite sides.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "d95ea069-dcbd-4cf7-8ff9-13b0f669086a",
+        "topic_name": "Theatre",
+        "question": "What is the 'Walk of Wonder' exercise?",
+        "answer": "An activity involving variations in walking speed and style.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "82d79792-0f05-42ab-b77c-81713a653cd9",
+        "topic_name": "Theatre",
+        "question": "What is the 'Freeze and Justify' exercise?",
+        "answer": "Freezing in a pose and explaining the intended action.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "290f4bda-f19b-4c9e-aeea-1ac9c3bf2f3d",
+        "topic_name": "Theatre",
+        "question": "What are 'Group Structures' in theatre?",
+        "answer": "Activities involving group formations and scene depiction.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "2dbbb8a0-8b93-4162-827f-6da518a7513a",
+        "topic_name": "Theatre",
+        "question": "What are Vachika activities in theatre?",
+        "answer": "Activities related to voice and speech.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "02cc7086-4b38-4e9b-a121-cac1ea5401d9",
+        "topic_name": "Theatre",
+        "question": "What are tongue twisters used for in theatre?",
+        "answer": "Improving pronunciation and speech clarity.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "924ebfb4-e5ed-4d73-bff8-c0fd933c2b28",
+        "topic_name": "Theatre",
+        "question": "What is pitch in voice?",
+        "answer": "The highness or lowness of a sound.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "15d08439-3bd2-41c3-aff3-26fd725a6424",
+        "topic_name": "Theatre",
+        "question": "What is tone in voice?",
+        "answer": "The emotional quality of speech.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "6d5abfc8-769a-40eb-9795-a319d7c43b55",
+        "topic_name": "Theatre",
+        "question": "What is speed in speech?",
+        "answer": "The pace at which words are spoken.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "d006cc22-19b1-4bc1-9a02-bd3916dbb701",
+        "topic_name": "Theatre",
+        "question": "What are intonations?",
+        "answer": "Variations in pitch and tone to emphasize words or phrases.",
+        "accuracy_score": 4,
+        "confidence_score": 95,
+        "is_repeated": true
+    },
+    {
+        "card_id": "191b91b7-9f9f-4821-94a4-a9c0ec35f50f",
+        "topic_name": "Theatre",
+        "question": "What are Ahaarya activities in theatre?",
+        "answer": "Activities related to costumes, props, and set design.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "dbbc5e3e-4a7d-4a23-851d-8c138f5144e1",
+        "topic_name": "Theatre",
+        "question": "What are Sathvika activities in theatre?",
+        "answer": "Activities related to expressing emotions.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    },
+    {
+        "card_id": "41c68f32-c9e1-4e24-9ac5-0e00109c9c9a",
+        "topic_name": "Theatre",
+        "question": "What are the Navarasas in theatre?",
+        "answer": "Nine emotional states: love, laughter, sorrow, anger, valor, wonder, fear, disgust, and peace.",
+        "accuracy_score": 4,
+        "confidence_score": 100,
+        "is_repeated": true
+    }
+]
